@@ -14,3 +14,10 @@ The following table defines about the sports which are worth giving a shot
 |   Cycling  |Exercise and fun    |     7        |
 |    Cricket |    Fun             |      7       |
 | Running    |Exercise and health |      7       |
+
+----------
+# Pithy Quotes section
+
+> "Science is the poetry of reality." - *Richard Dawkins*
+
+> "The best way to predict the future is to create it." - *Peter Drucker*
