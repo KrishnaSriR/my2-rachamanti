@@ -21,3 +21,21 @@ The following table defines about the sports which are worth giving a shot
 > "Science is the poetry of reality." - *Richard Dawkins*
 
 > "The best way to predict the future is to create it." - *Peter Drucker*
+
+----------
+# Code Fencing section
+
+> KeyboardEvent.keyCode deprecated. What does this mean in practice?
+
+Here's the link for the above question from Stackoverflow
+[Stackoverflowlink](https://stackoverflow.com/questions/35394937/keyboardevent-keycode-deprecated-what-does-this-mean-in-practice)
+
+```
+<script>
+document.addEventListener("keydown", function(event) {
+  console.log(event.which);
+})
+</script>
+```
+Reference link for code snippet
+[CodeSnippetRef](https://css-tricks.com/snippets/javascript/javascript-keycodes/)
