@@ -8,9 +8,9 @@ There you go with my image
 # Tables section
 The following table defines about the sports which are worth giving a shot
 
-|    Name     |   Reason     |  time in hrs|
-| - - - - - - | - - - - - - -|- - - - - - -|
-| Badminton  |      Exercise        | 7             |
-|   Cycling          |  Exercise and fun            |     7        |
-|    Cricket         |    Fun          |      7       |
-| Running            |     Exercise and health         |      7       |
+|    Name     |   Reason          |  time in hrs|
+| - - -       |  ---              | ---         |
+| Badminton  |      Exercise      | 7          |
+|   Cycling  |Exercise and fun    |     7        |
+|    Cricket |    Fun             |      7       |
+| Running    |Exercise and health |      7       |
