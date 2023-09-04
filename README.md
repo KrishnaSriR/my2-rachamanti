@@ -13,5 +13,5 @@ It have various **fun activities** to refresh and lot of my **friends** to chill
 * Shawarma
 * Haleem
 
-Checkout MyStats file from the link below
+Checkout MyStats file from the link following
 [MyStats](https://github.com/KrishnaSriR/my2-rachamanti/blob/main/MyStats.md)
